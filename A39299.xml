@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thomas Ellwood's answer to so much of Leonard Key's late printed sheet of paper, as relates to him.</title>
+            <author>Ellwood, Thomas, 1639-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39299</idno>
+            <idno type="STC">Wing E614</idno>
+            <idno type="STC">ESTC R213539</idno>
+            <idno type="EEBO-CITATION">99825897</idno>
+            <idno type="PROQUEST">99825897</idno>
+            <idno type="VID">30288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thomas Ellwood's answer to so much of Leonard Key's late printed sheet of paper, as relates to him.</title>
+                  <author>Ellwood, Thomas, 1639-1713.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by T. Sowle,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at foot: T.E.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Bevan-Naish Collection, Woodbrooke College, Selly Oak, Birmingham (England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Key, Leonard --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:30288:1"/>
+            <head>
+               <hi>Thomas Ellwood's</hi> Anſwer to ſo much of <hi>Leonard Key's</hi> late Printed Sheet of Paper, as relates to him.</head>
+            <p>SUch is the reſtleſs Nature of ENVY, that it will not ſuffer thoſe, in whoſe Breaſts it lodgeth, to be quiet; but filling them with a <hi>fretting Diſcontent,</hi> is continually ſtirring them up to <hi>Strife</hi> and <hi>Contention:</hi> Whereby they become like thoſe whom the <hi>Prophet</hi> of old compared to <hi>the troubled Sea, when it cannot reſt, whoſe Waters caſt up mire and dirt,</hi> Iſa. 57.20. Thus ſome ungodly men now (like thoſe whom <hi>Jude</hi> deſcribed of old) having, in their <hi>ſenſual</hi> minds, <hi>ſeparated</hi> themſelves from the People of God, and become like <hi>raging Waves of the Sea,</hi> have <hi>fomed out their own ſhame</hi> in many printed Books and Papers, which of late years they have ſent abroad. And leſt thoſe Books and Papers ſhould not have fallen into every hand, or the matter contained in them ſhould have fallen or ſlipt out of any mind or memory, a <hi>reſtleſs Agent</hi> of that Party hath lately publiſhed a Sheet of Paper to <hi>revive</hi> them, the Title whereof is, <hi>Something of a Revival of what hath been made publick,</hi> &amp;c. Wherein many of their reviling and abuſive Pamphlets are named, and recommended afreſh to the Readers view. So induſtriouſly careful they are to <hi>blow the Coales,</hi> to keep the Fire <hi>flaming;</hi> ſo fearful leſt Contention and Strife (the food and life of that Spirit which they are joyned to and guided by) ſhould dy, decay or flag. By which all, that will, may ſee how deceietful they are, who (to gain upon the Simple) pretend they are for Peace, and that Contention might ceaſe and dy; yet leſt it ſhould, are ever and anon ſending forth ſome envious Book, or ſilly ſheet, to pick new Quarrels, or revive the old. But, as it was ſaid of the fooliſh Wo<g ref="char:EOLhyphen"/>man, that <hi>ſhe pulleth down her houſe with her hands,</hi> Prov. 14.1. So it is obſervable of this man, and of the reſt of that Party, that have appeared in Print, that in all their undertakings of this kind, they have either <hi>themſelves</hi> diſcovered their own Deceit and Wickedneſs, or given <hi>others</hi> occaſion to do it, and have thereby ſtil pulled down ſome Peice or other of their own <hi>confuſed</hi> Building. Which In<g ref="char:EOLhyphen"/>fatuation of mind may well be looked upon as a divine Judgment upon them. Now although the greateſt part of that Paper, lately publiſhed by <hi>L. Key,</hi> is about the <hi>Shutting up</hi> the Meeting Houſe Doors at <hi>Reading,</hi> and turning Friends out of their <hi>Right</hi> and <hi>Property</hi> (which having been already ſta<g ref="char:EOLhyphen"/>ted and debated in print, may probably be the reaſon why the Friends of <hi>Reading,</hi> named therein, have not thought fit to take notice of it: Yet, in as much as in that Paper my name is uſed, and men<g ref="char:EOLhyphen"/>tion made of a <hi>Certificate</hi> made by me, with an Inſinuation as if I had declined a publick Meeting with <hi>J. R.</hi> and <hi>C. H.</hi> (which, with ſome other Paſſages, are ſo darkly hinted in the ſaid Paper, that they cannot be thereby underſtood) I think fit a little to open thoſe Paſſages, that the Reader may be enabled to ſee, and judge where the Truth of the matter lies.</p>
+            <p>In the Title of <hi>L. Key's</hi> ſheet, he'ſaith, <hi>And ſomthing is ſaid to Thomas Elwood's Book.</hi> But certainly that <hi>Somthing</hi> is ſo near <hi>Nothing,</hi> that were it not for the clearing of other Paſſages, and partly alſo to prevent his being <hi>wiſe in his own conceit,</hi> I ſhould not have thought it worth my while to have ſaid <hi>any thing</hi> to it at all. He begins with me in his third Paragraph, where he bids his Reader <hi>ſee the Ac<g ref="char:EOLhyphen"/>count from Wickham, and ſee alſo what was ſaid to it, by that quibbling man</hi> Thomas Ellwood: <hi>For</hi> (ſays he) <hi>it doth appear he was the man, that writ the Certificate, concerning that Marriage he doth make ſuch a Clamour about: Which he ſaith, in page the 5th was before the Womens Meetings were ſet up.</hi> That the Reader may underſtand the matter thus <hi>darkly</hi> laid down, I think it needful to <hi>open</hi> it a little. The <hi>Account from Wickham,</hi> which he here mentions, was part of the Title of a Printed Sheet of Paper, publiſhed in the year 1690, and ſubſcribed in divers places with the Letters <hi>J. R.</hi> and <hi>C. H.</hi> (though <hi>C. H.</hi> hath ſince declared that it was printed without his conſent or knowledge.) To that I writ an Anſwer, the Title whereof was, <hi>The Account from</hi> Wickham (<hi>lately publiſhed by</hi> John Raunce <hi>and</hi> Charles Harris) <hi>ex<g ref="char:EOLhyphen"/>amined and found falſe,</hi> &amp;c. In that Anſwer of mine, to manifeſt their Deceipt (and thereby prevent others from being deceived by them) who in their printed Paper ſaid, <hi>We have only ſtood for our own and others Laberty in Chriſt,</hi> &amp;c. I was neceſſarily led to ſhew, that the Liberty they had ſtood for was <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Liberty in Chriſt, but a Liberty out of Chriſt, out of Truth, a fleſhly Liberty, a corrupt Liber<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mix in Marriages with ſuch as were not of us, and thoſe alſo <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by her Neighbour<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> having ſhewed how much that Marriage was againſt the mind and life of the Meeting, and what a long Conteſt it occaſioned therein, I ſet forth there alſo how, at length, they overbore and prevailed upon the Meeting to permit it to paſs, which yet was not yellded unto without this particular Caution, that they ſhould not take each other in any publick Meeting of Friends, but amongſt their own Relations that Friends might ſtand clear of them afterwards. To which though <hi>J. R.</hi> and themſelves agreed, yet were they afterwards brought to a publick monthly Meeting of Worſhip, where they took each other in Marriage amongſt Friends, and as Friends, <hi>J. R.</hi> being there to preach on that occaſion. And that, when ſome Friends, being greived and offended thereat, aroſe and departed in Teſtimony againſt it, <hi>J. R.</hi> in reflection upon them and to abet the Marriage, publickly ſaid, <hi>Let him that is without Sin caſt the firſt Stone</hi> as in my ſaid Anſwer to their Account is more at large declared. This <hi>Open Diſcovery</hi> of their Deceit and Naughtineſs (whereof not <hi>themſelves</hi> only, but many <hi>others</hi> alſo know them to be guilty) hath ſo enraged them, and others of their party againſt me, that in many places, both of City and Country they have poured forth their Diſpleaſure againſt me in floods of Reproaches, Revilings and Railing: For which the Lord give them Repentance, and forgive them.) But becauſe bare Railing at me would not excuſe themſelves, therefore, that they might ſeem to ſay ſomthing in their own de<g ref="char:EOLhyphen"/>fence, they alleadge that I, who blame them for promoting that Marriage, did my ſelf write the <hi>Certificate</hi> for it. And by this Artifice they have amuſed and abuſed many. Now of that matter the plain and naked Truth is this; that as the terms, and (as it were) Condition, upon which the Meet<g ref="char:EOLhyphen"/>ing, after ſo long contention about it, did at length yeild to <hi>permit</hi> that Marriage to paſs, was, that they ſhould not take each other in any publick Meeting of Friends (which the Parties concerned agreed to:) ſo, in order to hold them there unto, I did make a Certificate for them, thereby fixing their Marriage to a certain Day and Place (of their own nomination) which was a <hi>private</hi> Houſe of one, who was either Relation or Acquaintance to one of them, <hi>on purpoſe to prevent</hi> their being married at any publick Meeting, or amongſt Friends. But that Certificate which I writ, and <hi>as I writ it,</hi> was not the Certificate that was ſigned at their Marriage; but either there was, another written by ſome body elſe, or that which I writ was <hi>altered,</hi> to accommodate it to their deſign, and that in thoſe <hi>material</hi> parts of it, relating to Time and Place, for the <hi>only</hi> ſake of which I writ it. So that, to juſtifie them<g ref="char:EOLhyphen"/>ſelves for <hi>impoſing</hi> that Marriage upon Friends, they alleadge that I writ the Certificate, thereby inſi<g ref="char:EOLhyphen"/>nuating that I owned and forwarded that Marriage as well as They: whereas the Certificate that I writ was written on purpoſe to prevent that which they did; and that Certificate which they uſed was not the <hi>ſame</hi> that I writ. I writ a Certificate to keep that Marriage <hi>from being brought</hi> to any publick! Meet<g ref="char:EOLhyphen"/>ing of Friends: ſome of them either writ another, or <hi>altered</hi> that Certificate, <hi>to bring</hi> that Marriage to a publick Meeting of Friends, and by ſo doing made that Certificate their own, <hi>not mine,</hi> either<g ref="char:EOLhyphen"/>in Deed or in Intention. Thus they would cover Deceir with Deceit: but their Covering is too ſhort and to narrow, and this further Diſcovery of their <hi>double</hi> Deceit redounds to their further ſhame, But this is not all: <hi>L. Key</hi> is ſo eager on their behalf to faſten this upon me, that he runs himſelf on ground, and as they <hi>falſified</hi> the Certificate I writ, ſo he hath <hi>falſified</hi> the plain words in my Book: for he ſays that, in page 5. of my Book I ſay this <hi>Marriage was before the Womans Meetings were-ſet up;</hi> which is an apparent <hi>Falſhood</hi> of his, and he is therein guilty of a <hi>downright untruth.</hi> My words, in the place he quotes, are quite otherwiſe. I there ſay, <hi>The Conteſt between Friends and them about this Couple, was be<g ref="char:EOLhyphen"/>fore any Marriage had gone to the Womens Meetings:</hi> He ſays, I there ſay <hi>the Marriage was before the Wo<g ref="char:EOLhyphen"/>mens Meetings were ſet up.</hi> Had he not been in the <hi>blind Zeal,</hi> he falſly charges others with, he might have ſeen in the page he quotes of my Book, that the Womans Meetings were ſet up before that <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ince I there declare, that the Friends were fain to uſe the help of the Womens Meetings, to ex<g ref="char:EOLhyphen"/>amin that unhandſom Carriage of the before mentioned Woman towards her Father. But Envy ha<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> blinded him, and his Maſter owed him this ſhame.</p>
+            <p>He goes on thus concerning me, viz. <hi>The Noiſe he makes againſt Separates and Separate Meeting cannot be pleaſant nor eaſy to his Friends at</hi> Reading <hi>that could have talked as much of their in<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> be doth of his,</hi> &amp;c. This is idle traſhy ſtuff. How knows he, and what needs he matte<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be pleaſent or eaſy to my Friends, or not? My Friends at <hi>Reading</hi> are <hi>quiet</hi> and <hi>ſtill,</hi> a good <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <hi>Content:</hi> but he winches, kicks and flings, by which I can tell <hi>whoſe Back is gauled,</hi> be<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his ſilly Inſinuations. I would know of him when, where and to whom I have talked ſo m<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Inward ſenſe? Let him produce ſome Inſtance of it, if he can, or bluſh (if he be not pa<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> over bold Folly. He ſays of others, <hi>there blind Zeal being ſomwhat abated, they go now at a <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> but ſurely his <hi>blind Zeal</hi> is ſomewhat heightned, he runs on at ſo faſt a rate in his ungo<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>ſcoffing at inward ſence.</hi> I confeſs I value <hi>inward ſence</hi> more then to be jeer'd out of the <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by any of his <hi>frothy</hi> fiouts: And if he were a man of any good <hi>outward</hi> ſence, he would <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made <hi>inward</hi> ſence the ſubject of his <hi>ſport.</hi>
+            </p>
+            <p>He hath yet another <hi>ſnap</hi> at me, but ſnaps ſhort, and though he ſhews his Teeth, he has <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to bite. His words are, <hi>Reader, ſee for thy ſelf, and take not what he ſaith upon truſt: For it hath <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he ſuffered his aged Father to want.</hi> This ſpeaks its ſelf a Slander even from the very manner of <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing it forth. <hi>It hath been ſaid,</hi> By whom, hath this been ſaid? perhaps by <hi>L. Key</hi> himſelf, or ſome <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of his Party, who care not what they ſay, that they think might diſgrace me. The like, I have <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath been ſaid by <hi>Charles Harris,</hi> who (againſt all Rules of either Chriſtianity, common <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Humanity) did publickly traduce me with it, in an open Meeting, before a great Aſſembly of <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and in <hi>my abſenſe.</hi> But when, at a Meeting afterwards in the ſame place, appointed between <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and him (wherein his <hi>unbridled</hi> Tongue manifeſted his Religion to be vain, <hi>James</hi> 1.26. and his <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> corrupt, <hi>Mat.</hi> 12.34. amongſt other ſcoffing Reflections and vile Reproaches, calling <hi>Jſaac <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> oldeſt Son FOULMOUTH'D BRATT) I called him to an Account for his baſe <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> me with relation to my Father (as I did then alſo another of that Party, then preſent, who <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>bitten</hi> me alſo with the ſame Slander) demanding of them ſeverally, by name, if they would <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to make it good againſt me, they both ſlunk back, and ſeverally anſwered, <hi>No;</hi> for they knew <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of it (they ſaid) but by <hi>Hearſay.</hi> And when I had given that Aſſembly an Account of my de<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and carriage towards my Father (which I believe gave ſatisfaction to all there, who were not <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt it) <hi>C. H.</hi> acknowledged that wh<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> I had ſaid might be true for ought he knew, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had not mentioned my Father, if I had not blamed the Woman for lying with her Father. <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Meeting was ended, one of that Party came to me, and ſaid he was ſorry that buſin<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Father was mentioned, for he was ſenſible I was greatly wronged therein, having made par<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> about it, for his own ſatisfaction, <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Key's Paper being written (as I have <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> think) ſince that Meeting, he would not adventure to make it a downright Charge againſt m<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to his ſhame, had done) but brings it in with an (<hi>It hath been ſaid</hi>) which is a ſly way of <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a Slander. But ſeeing <hi>L. Key</hi> hath thereby manifeſted himſelf to be like thoſe whom the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> old complained of that ſaid <hi>Report, and we will report it,</hi> Jer. 20.10. I do again deny the Ch<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> put him upon the proof thereof. And ſince he ſaith <hi>It hath been ſaid,</hi> It behoves him to <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>he hath heard ſay it, to free himſelf from being the <hi>Author,</hi> as well as <hi>Publiſher</hi> of this envio<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> He ſays of others, <hi>It was their Practice to ſpread</hi> Lies: But he has now proved it to be his o<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therefore I have much more reaſon, then he, to deſire the Reader not to <hi>take what he ſays</hi> For he deſerves no credit, with honeſt and judicious Perſons, in ſurmiſing a Defamation up <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>er ground than an (<hi>It hath been ſaid,</hi>) eſpecially ſeeing I have now convicted him of <hi>falſifyi<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> words of my Book. But ſince he, and ſome others of that Party (eſpecially thoſe at <hi>Wi<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> taken this courſe to defame me, let them not complain if, when occaſion ſerves, I ſhoot th<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ows back upon themſelves, and let the World as publickly know what hath been ſaid of <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>more in my Book, than I could make out or</hi> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any from or for them (that ever I could <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>wer thereunto; ſo little earneſt were they in <hi>reality</hi> to have what they <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to offer, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Meeting. And how little reaſon the Meeting, or I, had to take notice of that Paper may appear<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by this, that whereas in that Paper (which has as little fence as Truth in it) they complain that I <hi>have wronged and abuſed them and my ſelf, and all thoſe that do adhear to me, by publiſhing Lies againſt them,</hi> the matter they aſſign for proof thereof is that in <hi>my Examination of their Paper, I ſay I have found the Account from</hi> Wickham <hi>falſe, but have not proved it ſo.</hi> Was not this a ſufficiently-idle pretence for a publick Hearing in the Country, when as both their Paper and my Anſwer thereto being in print, both City and Country (and all Countries where they were ſpread) were capable, by comparing the one with the other, to judge whether I had proved their Account falſe, or no? They pretended they were wil<g ref="char:EOLhyphen"/>ing to have a publick Hearing in the Country, that <hi>they might clear their innocent Undertakings, and make their juſt Defence.</hi> Could they not clear their Undertakings in Print? It muſt be then becauſe their un<g ref="char:EOLhyphen"/>dertakings were <hi>not Innocent.</hi> Could they only <hi>offend others</hi> in Print, and not <hi>Defend themſelves?</hi> Or could they imagine any hearing in the Country (how publick ſo ever) could be ſo publick as from the Preſs, where <hi>they began?</hi> How ſhallow and ſilly their pretences are! But it may be gueſſed what ſort of hearing they intended (if indeed they really intended any) by their propoſing it to be <hi>before ſuch Friends and Neighbours that are willing</hi> (ſaid they) <hi>to hear what we have to ſay.</hi> A partial Auditary they deſigned, it ſeems not ſuch as would <hi>indifferently</hi> hear what <hi>both ſides</hi> had to ſay, but) ſuch as would hear what THEY had to ſay. They deſired alſo to <hi>know who were the Approvers of ſuch Beoks, and whether they are not paid for out of the Publick Stock?</hi> Why did they not, at the ſame time, ſignifie who were the <hi>Approvers</hi> of their Paper (if any but themſelves <hi>approved</hi> it) and out of what ſtock it was paid for? Could they not clear their undertakings, and defend themſelves without knowing the Approvers of my Book, and how it was paid for? My Name is to my Book in words at length: What then doth it concern them either who approved it, or how it was printed. This ſhews their Deſign was, under pretence of clear<g ref="char:EOLhyphen"/>ing themſelves (which they know they never can) to pick ſome <hi>freſh Quarrel</hi> to wrangle and make a noiſe about, and ſo <hi>ſlip off from their own Purgation.</hi> Their Agent <hi>L. Key</hi> ſays (and that truly) <hi>Truth is ſtrongeſt:</hi> And had they had, or beleived they had, Truth on their ſide, they knew where to have met me, even where they complained I had met with them, viz. <hi>in Print.</hi> Which as it is the moſt <hi>publick</hi> ſo was it the moſt <hi>ſuitable,</hi> and indeed the only <hi>proper</hi> way for them and me to meet, on that Subject, af<g ref="char:EOLhyphen"/>ter <hi>they</hi> had <hi>begun</hi> in Print. Had they ſought me there, and I had not appeared, he might with <hi>leſs un<g ref="char:EOLhyphen"/>truth</hi> have ſaid <hi>I declined a Meeting.</hi> But being conſcious to themſelves of their own Guilt, and not thinking it ſafe to truſt their Cauſe to the deliberate Examination of every judicious Eye, they them<g ref="char:EOLhyphen"/>ſelves declined that ſort of Meeting which they had given the <hi>open Challenge</hi> to. For in the firſt Poſt<g ref="char:EOLhyphen"/>ſcript to their Account from <hi>Wickham,</hi> p.4. they ſay, <hi>Now if we and our Friends be no better eſteemed than we have been rendred by ſome perſons, <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> come forth in plainneſs, and if there be no Unity, no Peace to be made with us,</hi> LET THEM <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>AUSE PUBLICK. Were they ſuch Children, to think that, after they had, by ſuch a daring Provocation, drawn forth <hi>ſomthing</hi> of the Cauſe in publick, they ſhould ſlip back into a Corner, (for ſuch the moſt publick Hearing may be called in compariſon of the Preſs) to have the matters, <hi>already printed,</hi> heard and adjudged by a partial Auditory, of ſuch, perhaps, as were either <hi>Patients</hi> to <hi>J. R.</hi> or of <hi>Party</hi> with them both; ſuch, it may be, as was that Perſon, who (when <hi>C. H.</hi> in a publick Meeting, which ſome Friends had lately with him in this Country, where he and they dwell, was openly charged with an <hi>evil Converſation,</hi> and proof offered to be made thereof, which he refuſed to hear, or ſtand the tryal of) ſaid <hi>If ye do prove it, I will not believe it,</hi> Before <hi>ſuch</hi> Hearers it is probable they would be willing to have an Hearing, ſuch as would hear what <hi>They</hi> have to ſay, and would <hi>not believe</hi> Proof againſt them. But let them remember, they have in print bid us <hi>come forth in plainneſs,</hi> they have in print bid us <hi>make the Cauſe publick;</hi> and ſo far as that has been already done, ſhall (with Gods help) <hi>be as publickly</hi> defended.</p>
+            <closer>
+               <signed>T. E.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
